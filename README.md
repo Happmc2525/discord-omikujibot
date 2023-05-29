@@ -4,4 +4,4 @@ discordのbotです
 でおみくじが引けます
 
 はっぴーさーばー2 https://happymc.jimdo.com/
-のDiscordで使用しています
+のDiscordサーバーで使用しています
