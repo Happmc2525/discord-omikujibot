@@ -1,4 +1,4 @@
-# omikujibot
+# discord-omikujibot
 discordのbotです
 おみくじが引けます
 
