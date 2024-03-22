@@ -1,6 +1,7 @@
 import discord
 from discord import Option
 import random
+import asyncio
 
 TOKEN = 'ここにbotのトークンを入れる'
 DISCORD_SERVER_IDS = ここにサーバーのIDを入れる
