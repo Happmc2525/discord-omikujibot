@@ -1,6 +1,7 @@
 # discord-omikujibot
 discordのbotです
 おみくじが引けます
+cron等で毎日omikuji.txtをリセットしてください
 
 コマンド:
 
